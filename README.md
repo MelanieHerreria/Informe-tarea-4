@@ -7,7 +7,7 @@
 **OBJETIVO GENERAL**
 ***
 Comprender los temas sobre circuitos en serie-paralelo, teoremas de circuitos y conversiones, mediante la lectura de los capítulos 7 y 8 del libro "Principios de circuitos eléctricos" de Floyd, para aplicarlos en la práctica y resolución de ejercicios.
-**
+***
 **OBJETIVOS ESPECIFICOS**
 ***
 - Resumir los temas que se encuentran en el capítulo 7 y 8 del libro "Principios de circuitos eléctricos" de Floyd, mediante el uso de mapas conceptuales.

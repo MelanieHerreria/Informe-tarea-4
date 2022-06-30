@@ -873,10 +873,16 @@ P = V * I = 110.11 V * 1 mA = 110.11 mW
 ***
 **VIDEO**
 ***
-
+https://www.youtube.com/watch?v=5S0WgDUcQ7Q
 ***
 **CONCLUSIONES**
 ***
+- A partir de los resúmenes realizados mediante mapas conceptuales, se puede decir que se combinan los resistores en serie y en paralelo dentro de circuitos en serie-paralelo. Tenemos combinaciones tanto en serie como en paralelo dentro del mismo circuito y se aplica los métodos de análisis de circuitos en serie y circuitos en paralelo, el divisor de voltaje sometidos a carga es importante, ya que este tipo de circuito se encuentra en muchas situaciones prácticas. Se utiliza los teoremas y las conversiones para facilitar el análisis de ciertos tipos de circuitos, junto con a la ley de Ohm y las leyes de Kirchhoff. Los teoremas de Thevenin y de Norton ponen a nuestro alcance métodos fáciles s para reducir un circuito a una forma equivalente simple.
+
+- En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 7 y 8, donde comprobamos lo importante que es los métodos de análisis de la combinación de los resistores en serie y en paralelo dentro de circuitos en serie-paralelo; y los teoremas de Thevenin y de Norton que vuelven mas fácil su resolución .
+
+- En el video se justifica 4 ejercicios que se realizaron en el desarrollo del informe, mediante una breve explicación de lo que trata el ejercicio y aplicando las formula dadas
+
 
 ***
 **BIBLIOGRAFIA**

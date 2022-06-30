@@ -481,21 +481,18 @@ R1=4kΩ-1kΩ=3kΩ
 
 **Efecto de carga de un voltímetro**
 
-36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo. 
-
-(a) 0.5 V 
-
- (b) 1 V 
- 
-(c) 5 V
-
-(d) 50 V
-
-(e) 100 V 
-
-(f) 1000 V
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/105259459/176739414-e514cec8-a51b-43b0-aca4-06b6fad209ec.png)
+
+V=Io*R=Io(7,5)+0,4+0,6
+Io=(7/10)=0,7mA
+Corriente en la resistencia de 7,5 kgΩ
+I=Io+It=0,7+0,5=1,2 mA
+Corriente en la resistencia de 600 Ω
+I=-I2-Io-1,5-0,7=1,2 mA
+
 
 **Redes en escalera**
 
